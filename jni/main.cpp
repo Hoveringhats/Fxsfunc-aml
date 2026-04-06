@@ -11,6 +11,7 @@
 #include <cmath>
 #include <unistd.h>
 #include <dlfcn.h>
+#include <sys/mman.h>
 #include <android/log.h>
 
 // ============================================================
